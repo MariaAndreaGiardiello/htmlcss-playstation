@@ -3,14 +3,23 @@
 -----------------*/
 .debug .header-top{
     background-color: black;
-    height: 50px;
-}
-
-.debug .col-2{
-    background-color: aqua;
 }
 
 .debug .header-bottom{
-    background-color: gray;
-    height: 50px;
+    background-color: white;
+}
+
+/*-----------------
+    HEADER
+-----------------*/
+
+.main-menu{
+    color: grey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.play-logo{
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
