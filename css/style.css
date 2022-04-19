@@ -9,14 +9,16 @@
     background-color: white;
 }
 
-.debug .col-4{
-    background-color: aqua;
-    height: 50px;
-}
 
 /*-----------------
     THYPO
 -----------------*/
+.title-text{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+/*---- hero ----*/
 .hero-title{
     font-size: 35px;
     color: white;
@@ -29,6 +31,23 @@
     color: white;
     margin-top: 20px; 
 }
+/*---- /hero ----*/
+
+/*---- console description ----*/
+.top-text-title{
+    color: rgb(0, 157, 255);
+    font-size: 15px;
+    margin-top: 100px;
+}
+
+.gray-text{
+    font-size: 20px;
+    color: gray;
+    font-weight: bold;
+}
+/*---- /console description ----*/
+
+
 /*-----------------
     BUTTON
 -----------------*/
@@ -38,6 +57,15 @@
     color: white;
     font-weight: bold;
     font-size: 15px;
+}
+
+.btn-more-info{
+    color: white;
+    background-color: rgb(0, 68, 255);
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 30px;
 }
 
 /*-----------------
@@ -58,6 +86,8 @@
 /*-----------------
     MAIN
 -----------------*/
+
+/*---- hero section ----*/
 main{
     margin-top: 90px;
 }
@@ -71,7 +101,21 @@ main{
 }
 
 .hero-logo{
-    margin-top: 300px;
+    margin-top: 270px;
     align-items: center;
 }
+/*---- /hero section ----*/
+
+/*---- game gallery section ----*/
+.game-portfolio {
+    position: relative;
+}
+.game-portfolio img {
+    width: 100%;
+    border-radius: 25px;
+    margin-top: 30px;
+}
+/*---- /game gallery section ----*/
+
+/*---- console description section ----*/
 
