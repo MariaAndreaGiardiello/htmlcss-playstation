@@ -9,6 +9,37 @@
     background-color: white;
 }
 
+.debug .col-4{
+    background-color: aqua;
+    height: 50px;
+}
+
+/*-----------------
+    THYPO
+-----------------*/
+.hero-title{
+    font-size: 35px;
+    color: white;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.hero-subtitle{
+    font-size: 18px;
+    color: white;
+    margin-top: 20px; 
+}
+/*-----------------
+    BUTTON
+-----------------*/
+.btn-shop-now{
+    background-color: rgb(204, 75, 24);
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
 /*-----------------
     HEADER
 -----------------*/
@@ -27,11 +58,20 @@
 /*-----------------
     MAIN
 -----------------*/
+main{
+    margin-top: 90px;
+}
 .hero{
-    background-image: url("img/jumbo-bg.png"); 
+    background-image: url("../img/jumbo-bg.png");; 
     background-color: #cccccc; 
-    height: 500px;
+    height: 600px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.hero-logo{
+    margin-top: 300px;
+    align-items: center;
+}
+
