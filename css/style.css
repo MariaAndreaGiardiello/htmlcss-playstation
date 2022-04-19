@@ -57,6 +57,7 @@
     color: white;
     font-weight: bold;
     font-size: 15px;
+    margin-top: 20px;
 }
 
 .btn-more-info{
@@ -118,4 +119,19 @@ main{
 /*---- /game gallery section ----*/
 
 /*---- console description section ----*/
+/*---- /console description section ----*/
 
+/*---- second hero section ----*/
+.second-hero{
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");; 
+    background-color: #cccccc; 
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.second-hero-logo{
+    margin-top: 50px;
+}
+/*---- second hero section ----*/
