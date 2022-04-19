@@ -23,3 +23,15 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+/*-----------------
+    MAIN
+-----------------*/
+.hero{
+    background-image: url("img/jumbo-bg.png"); 
+    background-color: #cccccc; 
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
