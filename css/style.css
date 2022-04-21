@@ -71,6 +71,12 @@
 }
 /*---- /new raleases game gallery ----*/
 
+/*---- /playstation plus section ----*/
+.ps-plus-text{
+    margin-top: 30px;
+    font-size: 15px;
+}
+/*---- /playstation plus section ----*/
 
 /*-----------------
     BUTTON
@@ -93,6 +99,13 @@
     margin-top: 30px;
 }
 
+.btn-ps-plus{
+    background-color: rgb(218, 218, 221);
+    border-radius: 20px;
+    color: rgb(0, 68, 255);
+    border: none;
+    margin-top: 40px;
+}
 /*-----------------
     HEADER
 -----------------*/
@@ -167,3 +180,17 @@ main{
 /*---- new raleases section ----*/
 /*---- /new raleases section ----*/
 
+/*---- playstation plus section ----*/
+.grey-container{
+    background-color: rgb(190, 188, 187);
+    height: 300px;
+}
+
+.ps-plus-logo{
+    margin-top: 50px;
+}
+
+.ps-plus-game{
+    height: 300px;
+}
+/*---- /playstation plus section ----*/
