@@ -209,3 +209,39 @@ main{
     height: 300px;
 }
 /*---- /playstation now section ----*/
+
+/*-----------------
+    FOOTER
+-----------------*/
+.footer-container{
+    background-color: rgb(26, 66, 150);
+    width: 100%;
+}
+
+.language-symbol{
+    max-width: 20px;
+}
+
+.language-text{
+    padding-left: 10px;
+    color: white;
+}
+
+.footer-link{
+    color: white;
+    text-decoration: none;
+}
+
+.sie-logo{
+    max-width: 120px;
+}
+
+.copyright-text{
+    color: white;
+    font-size: 13px;
+}
+
+.copyright-link{
+    color: white;
+    text-decoration: none;
+}
