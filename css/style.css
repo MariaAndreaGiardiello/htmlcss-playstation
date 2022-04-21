@@ -71,12 +71,20 @@
 }
 /*---- /new raleases game gallery ----*/
 
-/*---- /playstation plus section ----*/
+/*---- playstation plus section ----*/
 .ps-plus-text{
     margin-top: 30px;
     font-size: 15px;
 }
 /*---- /playstation plus section ----*/
+
+/*---- /playstation now section ----*/
+.ps-now-text{
+    margin-top: 30px;
+    font-size: 15px;
+    color: white;
+}
+/*---- /playstation now section ----*/
 
 /*-----------------
     BUTTON
@@ -194,3 +202,10 @@ main{
     height: 300px;
 }
 /*---- /playstation plus section ----*/
+
+/*---- playstation now section ----*/
+.blue-container{
+    background-color: rgb(24, 28, 57);
+    height: 300px;
+}
+/*---- /playstation now section ----*/
