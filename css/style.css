@@ -117,6 +117,10 @@
     border: none;
     margin-top: 40px;
 }
+
+.btn-login{
+    border-radius: 20px;
+}
 /*-----------------
     HEADER
 -----------------*/
